@@ -15,7 +15,7 @@ Slot:
     - nhưng nếu bị trùng nhau thì component ở js sẽ bị overwrite lại bởi html
 Tree - Component Recusive:
      - Sử dùng phương pháp render các array lồng nhau:
-       - Load ra phần content cha xong đó xem thử nếu phần array của thằng có mảng nào được thêm vào hay không
+       - Load ra phần content cha xong đó xem thử nếu phần array của thằng con có mảng nào được thêm vào hay không
     - có thể ứng dụng các thực tế như:
         - làm side bar 
         - làm rep cmt.

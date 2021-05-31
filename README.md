@@ -17,8 +17,9 @@ Tree - Component Recusive:
      - Sử dùng phương pháp render các array lồng nhau:
        - Load ra phần content cha xong đó xem thử nếu phần array của thằng con có mảng nào được thêm vào hay không
     - có thể ứng dụng các thực tế như:
-        - làm side bar 
-        - làm rep cmt.
+        - làm side bar
+        - làm các phần comment sản phẩn
+        - làm phần rep của comment và rep lại của lần rep trước đó
         
  cách để Install Boostrap
     
